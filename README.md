@@ -1,7 +1,8 @@
 Test task 
-App has two screens "Home" and "Rates"
+
+App has two screens "Home" and "Rates".
 On Rates screen user can search for currency rates and add them to their favorites list which can be reviewed on home screen.
-App fetches rates every 5 seconds using OpenExchangeRates API
+App fetches rates every 5 seconds using OpenExchangeRates API.
 If there is no connection app is using local database and notify user about it. 
 Some Images:
 
